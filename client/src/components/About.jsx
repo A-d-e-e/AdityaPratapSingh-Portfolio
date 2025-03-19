@@ -23,6 +23,8 @@ export default function About() {
               <p className="text-lg text-gray-600 leading-relaxed">
                 I'm an AI and machine learning enthusiast with hands-on experience in full stack development. 
                 Currently pursuing my Bachelor's in Computer Science with a focus on intelligent systems.
+                I'm an aspiring Data and Software Engineer with a strong foundation in AI/ML, cloud computing, 
+                and full-stack development. Proven ability to innovate and deliver impactful solutions through collaborative efforts.
               </p>
   
               <div className="grid md:grid-cols-2 gap-8">

@@ -11,7 +11,7 @@ export default function About() {
             <div className="md:col-span-1 flex justify-center">
               <div className="relative group">
                 <img 
-                  src="public/profile.jpg" 
+                  src="/profile.jpg" 
                   alt="Profile" 
                   className="w-64 h-64 rounded-full object-cover shadow-xl transform group-hover:scale-105 transition-all"
                 />

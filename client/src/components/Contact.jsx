@@ -10,7 +10,7 @@ export default function Contact() {
   const handleSubmit = async (e) => {
     e.preventDefault()
     try {
-      const response = await fetch('https://your-render-backend-url.onrender.com/send-email'), {
+      const response = await fetch('https://portfolio-backend-1e2p.onrender.com/send-email'), {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -3,7 +3,7 @@ export default function Projects() {
       {
         title: "Fullstack Real-Time Sign Language Translation",
         description: "Built a fullstack ASL translator with live feed from OpenCV, and Flask for RestfulAPIs.",
-        tech: ["Python", "React", "Flask"],
+        tech: ["Python", "React", "Flask", "Vercel", "Render"],
         link: "https://github.com/A-d-e-e/Fullstack-Sign-Language-Prediction"
       },
       {

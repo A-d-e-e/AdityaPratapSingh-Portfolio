@@ -10,7 +10,7 @@ export default function Projects() {
         title: "Unbeatable Tic-Tac-Toe",
         description: "An impossible opponent at Tic-Tac-Toe crafted using Minmax Algorithm and Alpha-Beta Pruning.",
         tech: ["Python", "Artificial Intelligence", "Tkinter GUI"],
-        link: "https://github.com/A-d-e-e/CODSOFT/blob/main/TTT.py"
+        link: "https://github.com/A-d-e-e/Unbeatable-Tic-Tac-Toe-AI/"
       },
       {
         title: "House Price Prediction",

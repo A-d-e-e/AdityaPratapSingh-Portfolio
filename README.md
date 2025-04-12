@@ -1,4 +1,4 @@
-```markdown
+
 # Aditya Pratap Singh Portfolio
 
 Welcome to the repository for my personal portfolio website. This project is a full-stack application designed to showcase my projects, skills, and professional journey in a modern and engaging way.
@@ -101,7 +101,3 @@ Feel free to reach out if you have any questions or comments:
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```

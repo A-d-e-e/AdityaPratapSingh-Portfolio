@@ -98,6 +98,6 @@ For significant changes, please open an issue first to discuss what you’d like
 ## Contact
 
 Feel free to reach out if you have any questions or comments:
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email:** adityapratap1133@gmail.com(mailto:adityapratap1133@gmail.com)
+- **LinkedIn:** LinkedIn Profile((https://www.linkedin.com/in/aditya-pratap-singh13/))
 

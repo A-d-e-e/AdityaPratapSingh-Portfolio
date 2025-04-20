@@ -7,7 +7,7 @@ const app = express()
 app.use(cors())
 app.use(express.json())
 
-// Email transporter configuration
+
 const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
@@ -16,7 +16,6 @@ const transporter = nodemailer.createTransport({
   }
 })
 
-// Email endpoint
 app.post('/send-email', (req, res) => {
   const { name, email, message } = req.body
 
